@@ -1,0 +1,73 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Format code">
+      <action id="ReformatCode" />
+      <action id="SaveAll" />
+    </macro>
+    <macro name="Format selection">
+      <action id="EditorCut" />
+      <action id="EditorPaste" />
+    </macro>
+    <macro name="plip">
+      <action id="EditorDown" />
+      <action id="EditorLineStart" />
+      <typing text-keycode="222:0">'</typing>
+      <action id="EditorLineEnd" />
+      <action id="EditorPaste" />
+    </macro>
+    <macro name="&lt;noname&gt;">
+      <action id="Find" />
+      <typing text-keycode="70:0;85:0;76:0;76:0;87:1;73:0;84:0;72:0;84:1;87:0;79:0;68:1;69:0;67:0;73:0;77:0;65:0;76:0;83:0;78:1;79:0">fullWithTwoDecimalsNo</typing>
+      <shortuct text="ENTER" />
+      <shortuct text="ESCAPE" />
+      <action id="EditorLineEnd" />
+      <typing text-keycode="44:0">,</typing>
+      <action id="EditorEnter" />
+      <typing text-keycode="70:0;85:0;76:0;76:0;87:1;73:0;84:0;72:0;78:1;79:0;68:1;69:0;67:0;73:0;77:0;65:0;76:0;83:0;59:1;32:0;222:0;222:0">fullWithNoDecimals:&amp;#x20;''</typing>
+      <action id="EditorLeft" />
+      <typing text-keycode="44:0;48:0;32:0;52:1">,0&amp;#x20;$</typing>
+      <action id="ActivateProjectToolWindow" />
+      <shortuct text="DOWN" />
+      <action id="EditSource" />
+    </macro>
+    <macro name="add format">
+      <action id="Find" />
+      <typing text-keycode="70:0;85:0;76:0;76:0;87:1;73:0;84:0;72:0;84:1;87:0;79:0;68:1;69:0;67:0;73:0;77:0;65:0;76:0;83:0;78:1">fullWithTwoDecimalsN</typing>
+      <shortuct text="ENTER" />
+      <shortuct text="ESCAPE" />
+      <action id="EditorLineEnd" />
+      <typing text-keycode="44:0">,</typing>
+      <action id="EditorEnter" />
+      <typing text-keycode="70:0;85:0;76:0;76:0;87:1;73:0;84:0;72:0;78:1;79:0;68:1;69:0;67:0;73:0;77:0;65:0;76:0;83:0;59:1;32:0;222:0;44:0;48:0;32:0;52:1;222:0">fullWithNoDecimals:&amp;#x20;',0&amp;#x20;$'</typing>
+      <shortuct text="meta S" />
+      <action id="ActivateProjectToolWindow" />
+      <shortuct text="DOWN" />
+      <action id="EditSource" />
+      <action id="ShowNavBar" />
+      <action id="EditSource" />
+      <action id="EditorPageUp" />
+      <action id="EditorPageUp" />
+    </macro>
+    <macro name="t">
+      <action id="Find" />
+      <typing text-keycode="70:0;85:0;76:0;76:0;87:1;73:0;84:0;72:0;78:1;79:0">fullWithNo</typing>
+      <shortuct text="BACK_SPACE" />
+      <shortuct text="BACK_SPACE" />
+      <typing text-keycode="84:1;87:0;79:0;68:1;69:0;67:0;65:0;73:0">TwoDecai</typing>
+      <shortuct text="BACK_SPACE" />
+      <shortuct text="BACK_SPACE" />
+      <typing text-keycode="73:0;77:0;65:0;76:0;83:0;78:1;79:0">imalsNo</typing>
+      <shortuct text="ENTER" />
+      <shortuct text="ESCAPE" />
+      <action id="EditorLineEnd" />
+      <typing text-keycode="44:0">,</typing>
+      <action id="EditorEnter" />
+      <typing text-keycode="70:0;85:0;76:0;76:0;87:1;73:0;84:0;72:0;78:1;79:0;68:1;69:0;67:0;73:0;77:0;65:0;76:0;83:0;59:1;32:1;222:0;44:0;48:0;32:0;52:1">fullWithNoDecimals:&amp;#x20;',0&amp;#x20;$</typing>
+      <action id="EditorRight" />
+      <shortuct text="meta S" />
+      <action id="ActivateProjectToolWindow" />
+      <shortuct text="DOWN" />
+      <action id="EditSource" />
+    </macro>
+  </component>
+</application>

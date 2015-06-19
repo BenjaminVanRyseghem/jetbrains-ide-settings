@@ -1,0 +1,184 @@
+<keymap version="1" name="nicolas" parent="Mac OS X 10.5+">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="control D" />
+    <keyboard-shortcut first-keystroke="DELETE" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="meta V" />
+    <keyboard-shortcut first-keystroke="control Y" />
+  </action>
+  <action id="ActivateChangesToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
+  </action>
+  <action id="ChooseDebugConfiguration" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift meta W" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="control W" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="control SPACE" />
+    <keyboard-shortcut first-keystroke="meta SPACE" />
+  </action>
+  <action id="CompareDirs" />
+  <action id="CompareJars" />
+  <action id="CompareTwoFiles" />
+  <action id="Debug" />
+  <action id="Diff.UpdatedFiles" />
+  <action id="DomCollectionControl.Edit" />
+  <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="meta DOWN" />
+  </action>
+  <action id="Editor Delete">
+    <keyboard-shortcut first-keystroke="control D" />
+    <keyboard-shortcut first-keystroke="DELETE" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="control Y" />
+  </action>
+  <action id="EditorDeleteToWordEndInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="meta D" />
+  </action>
+  <action id="EditorDeleteToWordStartInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="control BACK_SPACE" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift meta D" />
+  </action>
+  <action id="EditorEnter">
+    <keyboard-shortcut first-keystroke="ENTER" />
+    <keyboard-shortcut first-keystroke="control M" />
+  </action>
+  <action id="EditorKillRingSave">
+    <keyboard-shortcut first-keystroke="shift control K" />
+  </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="LEFT" />
+  </action>
+  <action id="EditorUnindentSelection" />
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="meta alt M" />
+    <keyboard-shortcut first-keystroke="control meta M" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt F7" />
+    <keyboard-shortcut first-keystroke="meta N" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="control B" />
+  </action>
+  <action id="GotoClass" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta B" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta O" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta alt B" />
+    <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="meta DOWN" />
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift meta O" />
+  </action>
+  <action id="Inline">
+    <keyboard-shortcut first-keystroke="meta alt N" />
+    <keyboard-shortcut first-keystroke="control meta N" />
+  </action>
+  <action id="IntroduceConstant">
+    <keyboard-shortcut first-keystroke="meta alt C" />
+    <keyboard-shortcut first-keystroke="control meta C" />
+  </action>
+  <action id="IntroduceField">
+    <keyboard-shortcut first-keystroke="meta alt F" />
+    <keyboard-shortcut first-keystroke="control meta F" />
+  </action>
+  <action id="IntroduceParameter">
+    <keyboard-shortcut first-keystroke="meta alt P" />
+    <keyboard-shortcut first-keystroke="control meta P" />
+  </action>
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="meta alt V" />
+    <keyboard-shortcut first-keystroke="control meta V" />
+  </action>
+  <action id="JumpToLastWindow" />
+  <action id="Macro.Format code">
+    <keyboard-shortcut first-keystroke="control S" />
+    <keyboard-shortcut first-keystroke="shift TAB" />
+  </action>
+  <action id="Macro.Format selection">
+    <keyboard-shortcut first-keystroke="control R" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="control TAB" />
+  </action>
+  <action id="PlaybackLastMacro">
+    <keyboard-shortcut first-keystroke="F4" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift control TAB" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction" />
+  <action id="RemoteHostView.EditSource" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="control meta R" />
+  </action>
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="shift alt R" />
+  </action>
+  <action id="Resume" />
+  <action id="Run" />
+  <action id="SaveDocument">
+    <keyboard-shortcut first-keystroke="alt S" />
+  </action>
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift control SPACE" />
+    <keyboard-shortcut first-keystroke="shift meta SPACE" />
+  </action>
+  <action id="StartStopMacroRecording">
+    <keyboard-shortcut first-keystroke="F3" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="control alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="alt TAB" />
+    <keyboard-shortcut first-keystroke="shift alt TAB" />
+  </action>
+  <action id="ToggleBookmark" />
+  <action id="ToggleFullScreen" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="meta E" />
+  </action>
+  <action id="alternate_file">
+    <keyboard-shortcut first-keystroke="alt 8" />
+    <keyboard-shortcut first-keystroke="shift alt 8" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.SwapCharactersAction">
+    <keyboard-shortcut first-keystroke="control T" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.WordsCapitalizeAction">
+    <keyboard-shortcut first-keystroke="control C" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.WordsCapitalizeFullyAction">
+    <keyboard-shortcut first-keystroke="shift control C" />
+  </action>
+</keymap>

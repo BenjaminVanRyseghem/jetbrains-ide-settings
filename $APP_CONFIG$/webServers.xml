@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0a08ce1d-7b20-4302-87f1-2f2b28ea3359" name="FTGP" url="http://localhost:8080">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

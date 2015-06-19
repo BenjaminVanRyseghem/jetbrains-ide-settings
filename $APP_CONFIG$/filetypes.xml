@@ -1,0 +1,25 @@
+<application>
+  <component name="FileTypeManager" version="14">
+    <ignoreFiles list="*.hprof;*.idea;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="wizardWarning" type="JavaScript" />
+      <mapping pattern="companySettingsDocument" type="JavaScript" />
+      <mapping pattern="sandbox" type="JavaScript" />
+      <mapping pattern="state" type="JavaScript" />
+      <mapping pattern="Icon&#13;" type="PLAIN_TEXT" />
+      <mapping pattern="QuickActionWidget" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="actionModel.js" type="PLAIN_TEXT" />
+      <mapping pattern="Gruntfile" type="PLAIN_TEXT" />
+      <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern="GruntFile" type="PLAIN_TEXT" />
+      <mapping ext="dll" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="ys" type="PLAIN_TEXT" />
+      <mapping ext="yp" type="PLAIN_TEXT" />
+      <mapping ext="resources" type="PLAIN_TEXT" />
+      <mapping ext="ysos" type="PLAIN_TEXT" />
+      <removed_mapping ext="dll" type="UNKNOWN" />
+    </extensionMap>
+  </component>
+</application>
