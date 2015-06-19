@@ -27,6 +27,12 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="meta DOWN" />
   </action>
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="BACK_SPACE" />
+  </action>
+  <action id="EditorDelete">
+    <keyboard-shortcut first-keystroke="DELETE" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta BACK_SPACE" />
   </action>
@@ -41,11 +47,36 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="alt DOWN" />
   </action>
+  <action id="EditorUnindentSelection" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift meta F" />
+  </action>
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="meta button1" />
     <keyboard-shortcut first-keystroke="meta UP" />
   </action>
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="control meta V" />
+  </action>
+  <action id="Macro.Format selection">
+    <keyboard-shortcut first-keystroke="shift TAB" />
+  </action>
+  <action id="PrevParameter" />
+  <action id="PrevTemplateParameter" />
+  <action id="PreviousTemplateVariable" />
   <action id="RemoteHostView.EditSource" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="control meta R" />
+  </action>
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="control meta R" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift meta R" />
+  </action>
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="shift alt R" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="control alt ENTER" />
   </action>
