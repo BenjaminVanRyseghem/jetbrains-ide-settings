@@ -9,17 +9,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_DECLARATION_BLOCK" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="TypeScript" value="false" />
-      <option name="HAML" value="false" />
-      <option name="JADE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="DART" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -31,17 +20,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_DECLARATION_BLOCK" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="TypeScript" value="false" />
-      <option name="HAML" value="false" />
-      <option name="JADE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="DART" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -52,17 +30,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_DECLARATION_BLOCK" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="TypeScript" value="false" />
-      <option name="HAML" value="false" />
-      <option name="JADE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="DART" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -74,17 +41,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_DECLARATION_BLOCK" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="TypeScript" value="false" />
-      <option name="HAML" value="false" />
-      <option name="JADE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="DART" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -96,17 +52,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_DECLARATION_BLOCK" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="TypeScript" value="false" />
-      <option name="HAML" value="false" />
-      <option name="JADE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="DART" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -117,17 +62,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_DECLARATION_BLOCK" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="TypeScript" value="false" />
-      <option name="HAML" value="false" />
-      <option name="JADE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="DART" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -137,17 +71,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_DECLARATION_BLOCK" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="TypeScript" value="false" />
-      <option name="HAML" value="false" />
-      <option name="JADE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="DART" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -159,17 +82,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_DECLARATION_BLOCK" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="TypeScript" value="false" />
-      <option name="HAML" value="false" />
-      <option name="JADE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="DART" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -182,17 +94,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_DECLARATION_BLOCK" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="TypeScript" value="false" />
-      <option name="HAML" value="false" />
-      <option name="JADE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="DART" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -204,17 +105,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_DECLARATION_BLOCK" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="TypeScript" value="false" />
-      <option name="HAML" value="false" />
-      <option name="JADE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="DART" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -225,17 +115,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_DECLARATION_BLOCK" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="TypeScript" value="false" />
-      <option name="HAML" value="false" />
-      <option name="JADE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="DART" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -247,17 +126,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_DECLARATION_BLOCK" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="TypeScript" value="false" />
-      <option name="HAML" value="false" />
-      <option name="JADE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="DART" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -267,31 +135,15 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_DECLARATION_BLOCK" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="TypeScript" value="false" />
-      <option name="HAML" value="false" />
-      <option name="JADE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="DART" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
   <template name="log" value="console.log('$END$');" description="insert console log" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="TypeScript" value="false" />
-    </context>
+    <context />
   </template>
   <template name="setTimeout" value="setTimeout(function(){&#10;&#9;$END$&#10;}, $TMP$);" description="setTimeout" toReformat="true" toShortenFQNames="true">
     <variable name="TMP" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
+    <context />
   </template>
   <template name="my" value="my.$NAME$ = spec.$NAME$;&#10;$END$" description="variable declaration on my" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
@@ -300,17 +152,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_DECLARATION_BLOCK" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="TypeScript" value="false" />
-      <option name="HAML" value="false" />
-      <option name="JADE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="DART" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
