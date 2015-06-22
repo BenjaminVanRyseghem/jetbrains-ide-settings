@@ -36,6 +36,16 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta BACK_SPACE" />
   </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="END" />
+    <keyboard-shortcut first-keystroke="meta RIGHT" />
+    <keyboard-shortcut first-keystroke="control E" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="HOME" />
+    <keyboard-shortcut first-keystroke="meta LEFT" />
+    <keyboard-shortcut first-keystroke="control A" />
+  </action>
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
   <action id="EditorSelectWord">
@@ -51,6 +61,14 @@
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift meta F" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta N" />
+    <keyboard-shortcut first-keystroke="meta O" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift meta alt N" />
+    <keyboard-shortcut first-keystroke="shift meta O" />
+  </action>
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="meta button1" />
     <keyboard-shortcut first-keystroke="meta UP" />
@@ -61,6 +79,7 @@
   <action id="Macro.Format selection">
     <keyboard-shortcut first-keystroke="shift TAB" />
   </action>
+  <action id="OverrideMethods" />
   <action id="PrevParameter" />
   <action id="PrevTemplateParameter" />
   <action id="PreviousTemplateVariable" />
@@ -95,5 +114,8 @@
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="DELETE" />
     <keyboard-shortcut first-keystroke="BACK_SPACE" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.SwapCharactersAction">
+    <keyboard-shortcut first-keystroke="control T" />
   </action>
 </keymap>

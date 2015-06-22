@@ -1,9 +1,6 @@
 <code_scheme name="Benjamin">
   <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="RIGHT_MARGIN" value="80" />
-  <ClojureCodeStyleSettings>
-    <option name="ALIGN_CLOJURE_FORMS" value="true" />
-  </ClojureCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
