@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="DELETE" />
     <keyboard-shortcut first-keystroke="BACK_SPACE" />
   </action>
+  <action id="ChangesView.Diff" />
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="meta W" />
   </action>
@@ -18,6 +19,14 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta W" />
   </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="control SPACE" />
+    <keyboard-shortcut first-keystroke="meta SPACE" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="DashLauncherAction" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="DomCollectionControl.Edit" />
   <action id="DomElementsTreeView.DeleteElement">
     <keyboard-shortcut first-keystroke="DELETE" />
@@ -35,6 +44,10 @@
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta BACK_SPACE" />
+    <keyboard-shortcut first-keystroke="meta D" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift meta D" />
   </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="END" />
@@ -58,6 +71,7 @@
     <keyboard-shortcut first-keystroke="alt DOWN" />
   </action>
   <action id="EditorUnindentSelection" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift meta F" />
   </action>
@@ -96,6 +110,11 @@
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="shift alt R" />
   </action>
+  <action id="SendEOF" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift control SPACE" />
+    <keyboard-shortcut first-keystroke="shift meta SPACE" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="control alt ENTER" />
   </action>
@@ -115,6 +134,7 @@
     <keyboard-shortcut first-keystroke="DELETE" />
     <keyboard-shortcut first-keystroke="BACK_SPACE" />
   </action>
+  <action id="openAssertEqualsDiff" />
   <action id="osmedile.intellij.stringmanip.SwapCharactersAction">
     <keyboard-shortcut first-keystroke="control T" />
   </action>
