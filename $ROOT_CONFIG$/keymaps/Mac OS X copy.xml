@@ -75,6 +75,13 @@
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift meta F" />
   </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="meta B" />
+  </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta N" />
     <keyboard-shortcut first-keystroke="meta O" />

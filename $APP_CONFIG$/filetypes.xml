@@ -14,10 +14,10 @@
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern="GruntFile" type="PLAIN_TEXT" />
       <mapping ext="dll" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="ys" type="PLAIN_TEXT" />
       <mapping ext="yp" type="PLAIN_TEXT" />
       <mapping ext="resources" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="ysos" type="PLAIN_TEXT" />
       <removed_mapping ext="dll" type="UNKNOWN" />
       <mapping ext="cljs" type="Clojure" />
